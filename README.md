@@ -41,6 +41,8 @@ Embedding layer
 
 
 
+
+
 **Representation of the neural network model**. **Adapted from** [(BOSCO; PILATO; SCHICCHI, 2018)](https://www.sciencedirect.com/science/article/pii/S1877050918323962)
 
 <img src="figs/The-Neural-Network-model.jpg" alt="Representation of the neural network model" style="zoom:67%;" />
@@ -66,9 +68,13 @@ Epochs: 9
 
 
 
+
+
 **Errors obtained for each memory unit with 10/90 Training/Test**. 
 
 <img src="figs/Memory-units.png" alt="**Errors obtained for each memory unit with 10/90 Training/Test**. " style="zoom:67%;" />
+
+
 
 
 
@@ -82,6 +88,8 @@ Epochs: 9
 
 
 
+
+
 **Comparison of errors obtained for sequence sizes of 25 and 100 for bases segmented into 10/90, 30/70 and 20/80**
 
 
@@ -90,11 +98,13 @@ Epochs: 9
 
 
 
+**Epochs obtained for the 3 segments that obtained the smallest errors**
+
 
 
 <img src="figs/Epochs.png" style="zoom:67%;" />
 
-​						**Epochs obtained for the 3 segments that obtained the smallest errors**
+​						****
 
 
 
@@ -107,6 +117,8 @@ After obtaining the best hyperparameters and configurations, two profiles of val
 
 
 
+
+
 Database: [Top2Billion-probable-v2](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords)
 
 - 10 millions for training (10%) 
@@ -115,6 +127,8 @@ Database: [Top2Billion-probable-v2](https://github.com/berzerk0/Probable-Wordlis
 
 
 ## Results
+
+
 
 
 
@@ -150,6 +164,8 @@ To obtain the best results and verify the best hit rate, it was built a script t
 
 
 
+
+
 **Hit Rate (HR) joining 2nd generation password dictionaries to the base test extracted from Top2Billion-probable-v2.**
 
 |                   | Generated quantity | Number of hits | Hit Ratio |
@@ -165,6 +181,8 @@ To obtain the best results and verify the best hit rate, it was built a script t
 
 
 
+
+
 **Hit Rate (HR) merging all 2nd generation dictionaries to 4 different password dictionaries**
 
 | Dictionaries            | Hits  | Hit Ratio |
@@ -173,6 +191,8 @@ To obtain the best results and verify the best hit rate, it was built a script t
 | RockYou                 | 3382  | 11%       |
 | Top85MillionWPA         | 1888  | 6%        |
 | Crackstation            | 14046 | 48%       |
+
+ 
 
 
 
