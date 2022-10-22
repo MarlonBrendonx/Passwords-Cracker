@@ -68,7 +68,7 @@ Epochs: 9
 
 **Errors obtained for each memory unit with 10/90 Training/Test**. 
 
-<img src="/home/user/TCC2/Passwords-Cracker/figs/Memory-units.png" alt="**Errors obtained for each memory unit with 10/90 Training/Test**. " style="zoom:67%;" />
+<img src="figs/Memory-units.png" alt="**Errors obtained for each memory unit with 10/90 Training/Test**. " style="zoom:67%;" />
 
 
 
@@ -76,7 +76,7 @@ Epochs: 9
 
 **Errors as a function of memory units obtained for 1 and 2 layers of the together 10/90 and 30/70 for base Top204Thousand-WPA-probable-v2.**
 
-<img src="/home/user/TCC2/Passwords-Cracker/figs/Cells.png" style="zoom:67%;" />
+<img src="figs/Cells.png" style="zoom:67%;" />
 
 
 
@@ -86,13 +86,13 @@ Epochs: 9
 
 
 
-<img src="/home/user/TCC2/Passwords-Cracker/figs/Sequence-length.png" style="zoom: 67%;" />
+<img src="figs/Sequence-length.png" style="zoom: 67%;" />
 
 
 
 
 
-<img src="/home/user/TCC2/Passwords-Cracker/figs/Epochs.png" style="zoom:67%;" />
+<img src="figs/Epochs.png" style="zoom:67%;" />
 
 ​						**Epochs obtained for the 3 segments that obtained the smallest errors**
 
@@ -120,7 +120,7 @@ Database: [Top2Billion-probable-v2](https://github.com/berzerk0/Probable-Wordlis
 
 **Epochs and Errors obtained for Top2Billion-probable-v2.**
 
-<img src="/home/user/TCC2/Passwords-Cracker/figs/Training-Top2Billion.png" style="zoom:67%;" />
+<img src="figs/Training-Top2Billion.png" style="zoom:67%;" />
 
 
 
