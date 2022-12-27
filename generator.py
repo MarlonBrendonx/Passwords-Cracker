@@ -88,7 +88,7 @@ def getSeeds(lines, number_of_seeds):
     return '\n'.join(seeds)
 
 
-text = open('../train.txt', mode='r', encoding="latin-1").read()
+text = open('train.txt', mode='r', encoding="latin-1").read()
 print('Length of text: {} characters'.format(len(text)))
 
 
