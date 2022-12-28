@@ -25,7 +25,7 @@ Algorithm inspired by:  [Shakespeare Text Generation (using RNN LSTM)](https://g
 * [Top85MillionWPA](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length)
 * [Crackstation](https://weakpass.com/wordlist/90) 
 
-
+**Script used for comparison of dictionaries **: [Grifo](https://github.com/MarlonBrendonx/Grifo)
 
 ### Building Models
 
