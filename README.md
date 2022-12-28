@@ -34,7 +34,6 @@ The Top204Thousand-WPA-probable-v2 was only used for defining the best hyperpara
 ### Model and Best Hiperparameters
 
 ```
-Activation function: Softmax
 Embedding layer
 	embedded dimension: 256
 ```
