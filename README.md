@@ -150,9 +150,9 @@ Accuracy: 68%
 
 To validate the quality of the model and consequently of the generated passwords, it was used
 The Hit Rate (HR) metric was used to measure the password hit rate
-$$
-HR = \frac{ |U^l_{hits}| } { |U_{all}| }   \label{eq:hit-ratio} \tag{1}
-$$
+
+|U^l_hits| / |U_all|
+
 
 To obtain the best results and verify the best hit rate, it was built a script to perform all possible combinations between the time hyperparameters temperature and number of characters generated when creating passwords by the model neural network. In all, 3 generations were carried out with 5 and 15 seeds.The best result was obtained for 15 seeds. In the sequence, passwords were generated based on the 15 seeds randomly obtained from the test base extracted from Top2Billion-probable-v2.
 
