@@ -8,7 +8,8 @@ The main objective of this work is the application of recurrent neural networks,
 
 Algorithm inspired by:  [Shakespeare Text Generation (using RNN LSTM)](https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_shakespeare_rnn/text_generation_shakespeare_rnn.ipynb)
 
-
+** Published Paper (PT-BR)**
+* [Recurrent Neural Networks for Password Generation in Dictionary-based Brute Force Attacks](https://repositorio.ufu.br/handle/123456789/36723)
 
 ### Used wordlists
 
